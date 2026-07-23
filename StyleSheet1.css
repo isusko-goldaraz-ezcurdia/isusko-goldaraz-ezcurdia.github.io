@@ -1,4 +1,8 @@
-﻿body {
+﻿* {
+    text-align:center;
+}
+
+body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     text-align: center;
