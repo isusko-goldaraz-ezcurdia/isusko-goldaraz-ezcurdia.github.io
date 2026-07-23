@@ -18,6 +18,7 @@ header {
 aside {
     text-align: center;
     color: #bbb;
+    flex-direction:row;
 }
 article {
     border-color: cornflowerblue;
@@ -26,6 +27,6 @@ article {
     background-color: darkorchid;
     color: darkblue;
     display: flex;
-    padding: 5%;
+    padding: 2%;
     margin: 5%;
 }
