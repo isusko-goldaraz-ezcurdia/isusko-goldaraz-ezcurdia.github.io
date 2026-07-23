@@ -10,3 +10,10 @@ aside {
     text-align: center;
     color: #bbb;
 }
+article {
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-width: medium;
+    background-color: darkorchid;
+    color: darkblue;
+}
