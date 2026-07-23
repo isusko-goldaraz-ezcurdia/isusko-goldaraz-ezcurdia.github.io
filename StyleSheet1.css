@@ -21,5 +21,7 @@ article {
     border-width: medium;
     background-color: darkorchid;
     color: darkblue;
-    text-align: center;
+    display: flex;
+    padding: 
+    margin:
 }
