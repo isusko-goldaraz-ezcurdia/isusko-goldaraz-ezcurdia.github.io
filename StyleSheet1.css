@@ -18,6 +18,7 @@ header {
 aside {
     text-align: center;
     color: #bbb;
+display: Flex;
     flex-direction:row;
 flex-wrap: wrap;
 }
