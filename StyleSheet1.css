@@ -19,6 +19,7 @@ aside {
     text-align: center;
     color: #bbb;
     flex-direction:row;
+flex-wrap: wrap;
 }
 article {
     border-color: cornflowerblue;
